@@ -4,23 +4,23 @@ import{_ as l,C as h,c as e,o as k,aA as a,j as i,G as t,a as p,w as r}from"./ch
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">WGLMakie</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">activate!</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">()</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">Makie</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">inline!</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">(</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">true</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">) </span><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"># Make sure to inline plots into Documenter output!</span></span>
 <span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">scatter</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">(</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">1</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">4</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">, color</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">=</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">1</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">4</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">)</span></span></code></pre></div><div><div>
-  <div class="bonito-fragment" id="9a696f9b-3566-4324-9640-b9052165693b" data-jscall-id="root">
+  <div class="bonito-fragment" id="a59d770b-4ac9-46a2-b3d5-46503897c0b5" data-jscall-id="root">
     <div>
       <script src="bonito/js/Bonito.bundled15432232505923397289.js" type="module"><\/script>
       <style></style>
     </div>
     <div>
-      <script type="module">Bonito.lock_loading(() => Bonito.init_session('9a696f9b-3566-4324-9640-b9052165693b', null, 'root', false))<\/script>
+      <script type="module">Bonito.lock_loading(() => Bonito.init_session('a59d770b-4ac9-46a2-b3d5-46503897c0b5', null, 'root', false))<\/script>
       <span></span>
     </div>
   </div>
-  <div class="bonito-fragment" id="aa33fbd1-57ef-43c0-98a3-87471848efaf" data-jscall-id="subsession-application-dom">
+  <div class="bonito-fragment" id="3c2934a9-54e8-410c-abf8-2d4a872bee11" data-jscall-id="subsession-application-dom">
     <div>
       <style></style>
     </div>
     <div>
       <script type="module">    Bonito.lock_loading(() => {
-        return Bonito.fetch_binary('bonito/bin/550c6ccf128b24c8642ca15b6d6638b1f23d4d49-5153969490327175937.bin').then(msgs=> Bonito.init_session('aa33fbd1-57ef-43c0-98a3-87471848efaf', msgs, 'sub', false));
+        return Bonito.fetch_binary('bonito/bin/c75a30a57966121cc1cfc60abeeae653bd0bdbd3-11284690081021612482.bin').then(msgs=> Bonito.init_session('3c2934a9-54e8-410c-abf8-2d4a872bee11', msgs, 'sub', false));
     })
 <\/script>
       <div style="width: 100%; height: 100%" data-jscall-id="1">
@@ -38,13 +38,13 @@ import{_ as l,C as h,c as e,o as k,aA as a,j as i,G as t,a as p,w as r}from"./ch
 <span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">surface</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">(</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">    -</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">1</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">..</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">-</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">1</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">..</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">, z,</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    colormap </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">=</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;"> :Spectral</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">)</span></span></code></pre></div><div><div class="bonito-fragment" id="b1ebede7-13ca-4d7b-b5f3-35e39ef1ce3e" data-jscall-id="subsession-application-dom">
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">)</span></span></code></pre></div><div><div class="bonito-fragment" id="0d25994b-6b2d-40bd-9f8a-4a07139bab54" data-jscall-id="subsession-application-dom">
   <div>
     <style></style>
   </div>
   <div>
     <script type="module">    Bonito.lock_loading(() => {
-        return Bonito.fetch_binary('bonito/bin/7cf26c8a9c7452e15d9583b79c807aed6c5e73e3-969760636697850170.bin').then(msgs=> Bonito.init_session('b1ebede7-13ca-4d7b-b5f3-35e39ef1ce3e', msgs, 'sub', false));
+        return Bonito.fetch_binary('bonito/bin/709a115ff56ed7ac018a6f7f5bbc2555d8c233ff-7967530991764082316.bin').then(msgs=> Bonito.init_session('0d25994b-6b2d-40bd-9f8a-4a07139bab54', msgs, 'sub', false));
     })
 <\/script>
     <div style="width: 100%; height: 100%" data-jscall-id="3">
@@ -76,13 +76,13 @@ import{_ as l,C as h,c as e,o as k,aA as a,j as i,G as t,a as p,w as r}from"./ch
 <span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">    heatmap</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">(fig[</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">2</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">], slice)</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    slider </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> DOM</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">div</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&quot;z-index: &quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">, index_slider, index_slider</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">.</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">value)</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">    return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Bonito</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">record_states</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">(session, DOM</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">div</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">(slider, fig))</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">end</span></span></code></pre></div><div><div class="bonito-fragment" id="6aaf9776-30b5-49f0-90cd-f3d48b8b683d" data-jscall-id="subsession-application-dom">
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">end</span></span></code></pre></div><div><div class="bonito-fragment" id="e1234e9c-0f8b-4cad-8570-a6fdfc316162" data-jscall-id="subsession-application-dom">
   <div>
     <style></style>
   </div>
   <div>
     <script type="module">    Bonito.lock_loading(() => {
-        return Bonito.fetch_binary('bonito/bin/27b1bfe268a9ee06893fa2d56d022dae0390a3bf-12585409331196212267.bin').then(msgs=> Bonito.init_session('6aaf9776-30b5-49f0-90cd-f3d48b8b683d', msgs, 'sub', false));
+        return Bonito.fetch_binary('bonito/bin/0cb6d7c358f4d0ac49e588ae11b97386dec276c6-15781023344618475748.bin').then(msgs=> Bonito.init_session('e1234e9c-0f8b-4cad-8570-a6fdfc316162', msgs, 'sub', false));
     })
 <\/script>
     <div data-jscall-id="5">
@@ -109,13 +109,13 @@ import{_ as l,C as h,c as e,o as k,aA as a,j as i,G as t,a as p,w as r}from"./ch
 <span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">    &quot;&quot;&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">)</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">    return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> DOM</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">div</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&quot;slider 1: &quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">, s1, slider_val)</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">end</span></span></code></pre></div><div><div class="bonito-fragment" id="bd8f6a5c-9f95-4887-b033-c4b669c827e2" data-jscall-id="subsession-application-dom">
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">end</span></span></code></pre></div><div><div class="bonito-fragment" id="873353b4-fdfb-449d-ae3a-98f2fddaa0c3" data-jscall-id="subsession-application-dom">
   <div>
     <style></style>
   </div>
   <div>
     <script type="module">    Bonito.lock_loading(() => {
-        return Bonito.fetch_binary('bonito/bin/bc6936bcaead56e34f5c3dbcb0140562d0e1e8ba-3754017590069222968.bin').then(msgs=> Bonito.init_session('bd8f6a5c-9f95-4887-b033-c4b669c827e2', msgs, 'sub', false));
+        return Bonito.fetch_binary('bonito/bin/2423c1920fbd53aabd298b3803efa22846eaa633-12766756584526523697.bin').then(msgs=> Bonito.init_session('873353b4-fdfb-449d-ae3a-98f2fddaa0c3', msgs, 'sub', false));
     })
 <\/script>
     <div data-jscall-id="12">slider 1: 
@@ -184,13 +184,13 @@ import{_ as l,C as h,c as e,o as k,aA as a,j as i,G as t,a as p,w as r}from"./ch
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">        })</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    }</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&quot;&quot;&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">)</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">    return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> DOM</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">div</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">(s1, color_slider, markersize, fig)</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">end</span></span></code></pre></div><div><div class="bonito-fragment" id="2f30294f-7d55-47d2-b3e7-f6622820564b" data-jscall-id="subsession-application-dom">
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">end</span></span></code></pre></div><div><div class="bonito-fragment" id="a3d8ab06-bc21-467c-8c95-da486d55166a" data-jscall-id="subsession-application-dom">
   <div>
     <style></style>
   </div>
   <div>
     <script type="module">    Bonito.lock_loading(() => {
-        return Bonito.fetch_binary('bonito/bin/d7055a9285fcfbebbb7a6c7f900fe199ba972c05-12223511210557744276.bin').then(msgs=> Bonito.init_session('2f30294f-7d55-47d2-b3e7-f6622820564b', msgs, 'sub', false));
+        return Bonito.fetch_binary('bonito/bin/4654dc7ecada7bd81d6c0050c651c9fd39ed941e-6264084368076329594.bin').then(msgs=> Bonito.init_session('a3d8ab06-bc21-467c-8c95-da486d55166a', msgs, 'sub', false));
     })
 <\/script>
     <div data-jscall-id="14">
@@ -224,14 +224,14 @@ import{_ as l,C as h,c as e,o as k,aA as a,j as i,G as t,a as p,w as r}from"./ch
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;">    # ToolTip(figurelike, js_callback; plots=plots_you_want_to_hover)</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    tooltip </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> WGLMakie</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">ToolTip</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">(f, on_click_callback; plots</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">pl)</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">    return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> DOM</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">div</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">(f, tooltip)</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">end</span></span></code></pre></div><div><div class="bonito-fragment" id="0868abab-99e9-4946-aeec-aadb2bb91e84" data-jscall-id="subsession-application-dom">
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">end</span></span></code></pre></div><div><div class="bonito-fragment" id="6d571671-0a5a-469f-8717-8f0816af48bf" data-jscall-id="subsession-application-dom">
   <div>
     <style></style>
     <link href="bonito/css/popup12105019685282523530.css" rel="stylesheet" type="text/css" />
   </div>
   <div>
     <script type="module">    Bonito.lock_loading(() => {
-        return Bonito.fetch_binary('bonito/bin/066f55847a2d70fb4c081e964ec475478baea6ae-17471326778762187999.bin').then(msgs=> Bonito.init_session('0868abab-99e9-4946-aeec-aadb2bb91e84', msgs, 'sub', false));
+        return Bonito.fetch_binary('bonito/bin/2b284a5957a11846e90e148b88dda10fb478ae6c-18279462676998707488.bin').then(msgs=> Bonito.init_session('6d571671-0a5a-469f-8717-8f0816af48bf', msgs, 'sub', false));
     })
 <\/script>
     <div data-jscall-id="20">
@@ -261,7 +261,7 @@ import{_ as l,C as h,c as e,o as k,aA as a,j as i,G as t,a as p,w as r}from"./ch
 <span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;">        $</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">(color_swatch).style.backgroundColor </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"> &quot;hsl(&quot;</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;"> +</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> hue </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">+</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"> &quot;,60%,50%)&quot;</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    }</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&quot;&quot;&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">)</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">    return</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;"> Row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">(hue_slider, color_swatch)</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">end</span></span></code></pre></div><div><div class="bonito-fragment" id="5ffc36d7-41e3-4e30-946a-697bd8882ba7" data-jscall-id="subsession-application-dom">
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">end</span></span></code></pre></div><div><div class="bonito-fragment" id="aaf4bb70-139e-484a-af62-a9026d415738" data-jscall-id="subsession-application-dom">
   <div>
     <style>.style_2 {
   justify-items: legacy;
@@ -280,7 +280,7 @@ import{_ as l,C as h,c as e,o as k,aA as a,j as i,G as t,a as p,w as r}from"./ch
   </div>
   <div>
     <script type="module">    Bonito.lock_loading(() => {
-        return Bonito.fetch_binary('bonito/bin/ae645f535cd015056397d45e2d2c40e1c57a4d7a-9790907232534694270.bin').then(msgs=> Bonito.init_session('5ffc36d7-41e3-4e30-946a-697bd8882ba7', msgs, 'sub', false));
+        return Bonito.fetch_binary('bonito/bin/3e7ad28cd8d3d1f4951a6d11f2acae7daaa44d0b-6225047916823298335.bin').then(msgs=> Bonito.init_session('aaf4bb70-139e-484a-af62-a9026d415738', msgs, 'sub', false));
     })
 <\/script>
     <div class=" style_2" style="" data-jscall-id="25">
@@ -303,7 +303,7 @@ import{_ as l,C as h,c as e,o as k,aA as a,j as i,G as t,a as p,w as r}from"./ch
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;">    # Markdown creates a DOM as well, and you can interpolate</span></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;">    # arbitrary jsrender&#39;able elements in there:</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">    return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> DOM</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">div</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">(card)</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">end</span></span></code></pre></div><div><div class="bonito-fragment" id="d9b6bb6b-b245-459d-9959-0eb4ef9eee62" data-jscall-id="subsession-application-dom">
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">end</span></span></code></pre></div><div><div class="bonito-fragment" id="da1a51e5-1d93-49b4-b3b8-f2f7e5ded65b" data-jscall-id="subsession-application-dom">
   <div>
     <style>.style_3 {
   justify-items: center;
@@ -345,14 +345,6 @@ import{_ as l,C as h,c as e,o as k,aA as a,j as i,G as t,a as p,w as r}from"./ch
   padding-left: 9.5px;
 }
 .style_6 {
-  height: 9.5px;
-  border: 1px solid #ccc;
-  background-color: #ddd;
-  position: absolute;
-  width: 0px;
-  border-radius: 3px;
-}
-.style_7 {
   left: -7.5px;
   height: 15px;
   border: 1px solid #ccc;
@@ -361,6 +353,14 @@ import{_ as l,C as h,c as e,o as k,aA as a,j as i,G as t,a as p,w as r}from"./ch
   width: 15px;
   border-radius: 50%;
   cursor: pointer;
+}
+.style_7 {
+  height: 9.5px;
+  border: 1px solid #ccc;
+  background-color: #ddd;
+  position: absolute;
+  width: 0px;
+  border-radius: 3px;
 }
 .style_8 {
   height: auto;
@@ -383,7 +383,7 @@ import{_ as l,C as h,c as e,o as k,aA as a,j as i,G as t,a as p,w as r}from"./ch
   </div>
   <div>
     <script type="module">    Bonito.lock_loading(() => {
-        return Bonito.fetch_binary('bonito/bin/b98afcf0fadb120eb7c155fdaa0db020e8a01e00-17847820302869384974.bin').then(msgs=> Bonito.init_session('d9b6bb6b-b245-459d-9959-0eb4ef9eee62', msgs, 'sub', false));
+        return Bonito.fetch_binary('bonito/bin/44a76091ce98419044d3a6d277de3a4c1e726d29-10316680482158634525.bin').then(msgs=> Bonito.init_session('da1a51e5-1d93-49b4-b3b8-f2f7e5ded65b', msgs, 'sub', false));
     })
 <\/script>
     <div data-jscall-id="27">
@@ -394,8 +394,8 @@ import{_ as l,C as h,c as e,o as k,aA as a,j as i,G as t,a as p,w as r}from"./ch
           </div>
           <div class=" style_5" style="" data-jscall-id="32">
             <div class=" style_9" style="" data-jscall-id="33"></div>
-            <div class=" style_6" style="" data-jscall-id="34"></div>
-            <div class=" style_7" style="" data-jscall-id="35"></div>
+            <div class=" style_7" style="" data-jscall-id="34"></div>
+            <div class=" style_6" style="" data-jscall-id="35"></div>
           </div>
           <img data-jscall-id="36" src="https://julialang.org/assets/infra/logo.svg" />
           <div style="width: 100%; height: 100%" data-jscall-id="37">
